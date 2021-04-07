@@ -1,0 +1,29 @@
+.top__info {
+  border-bottom: 1px solid #C4C4C4;
+}
+
+.top__info-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.blog__info-description {
+  margin-bottom: 56px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #78787A;
+  margin-bottom: 56px;
+}
+
+.top__info-left {
+  flex-basis: 48.5%;
+}
+.top__info-right {
+  flex-basis: 48.5%;
+}
+
+.top__info-image {
+  border-radius: 12px;
+  object-fit: cover;
+}

@@ -1,0 +1,11 @@
+.info__list-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.info__list-item {
+  flex-basis: 31.5%;
+  height: 404px;
+  margin-bottom: 56px;
+}

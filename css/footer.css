@@ -1,0 +1,32 @@
+.footer__wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
+
+.footer__links {
+  display: flex;
+  align-items: center;
+}
+
+.footer__link {
+  text-decoration: none;
+  font-size: 14px;
+  color: #91A0B6;
+}
+
+.footer__link:last-child {
+  margin-right: 0;
+}
+
+.footer__divider {
+  height: 1rem;
+  width: 1px;
+  background: rgb(169, 182, 200);
+  margin: 0px 24px;
+}
+
+.footer__copyright {
+  font-size: 14px;
+  color: #91A0B6;
+}
